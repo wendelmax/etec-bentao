@@ -349,7 +349,7 @@ Ou siga o guia completo: **[Setup do Instrutor](./docs/setup-instrutor.md)**
 #### **Opção 2: Curso Completo (8-12 horas)**
 
 **Dia 1 - Fundamentos (4h)**
-- Conceitos de Cloud (1h)
+- Conceitos de Cloud (1h30)
 - Azure Storage Account (1h30)
 - Azure Virtual Machine (1h30)
 
